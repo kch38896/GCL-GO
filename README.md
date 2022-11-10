@@ -3,7 +3,7 @@ This repository contains the code for the paper:
 
 GCL-GO: A novel sequence-based hierarchy-aware method for protein function prediction
 
-Our paper is accepted in BIBM 2022.
+Our paper is accepted in BIBM 2022
 ## Dependencies
 + python
 + PyTorch
