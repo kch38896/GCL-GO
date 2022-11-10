@@ -7,7 +7,7 @@ from pathlib import Path
 from config_bpo import get_config
 from data_load import dataset_read
 from graph_utils import load_data, make_neighbor_graph
-from model_only_lm import Net
+from model import Net
 
 def main():
     args = get_config()
