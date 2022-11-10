@@ -1,7 +1,4 @@
 def read_go_id(file_in):
-    """
-    GO term 인덱스 위치를 통일하기 위한 대표 GO term 배열 생성
-    """
     sp_list = {}
     with open(file_in) as read_in:
         for line in read_in:
