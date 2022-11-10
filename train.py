@@ -4,7 +4,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from pathlib import Path
-from config_bpo import get_config
+from config import get_config
 from data_load import dataset_read
 from graph_utils import load_data, make_neighbor_graph
 from model import Net
